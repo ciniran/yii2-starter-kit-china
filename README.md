@@ -1,11 +1,11 @@
 # Yii 2 快速开发脚手架
 
 
-####这是一个 YII2的 高级模版脚手架
+### 这是一个 YII2的 高级模版脚手架
 
 - 本项目基于  [Yii 2 starter kit](https://github.com/trntv/yii2-starter-kit)进行了中文本地化优化，适合中国用户使用
 
-####主要优化包括以下几点
+### 主要优化包括以下几点
 
 1. 加入docker的163镜像，加快docker速度
 
@@ -54,8 +54,8 @@ Login: user
 Password: user
 ```
 
-### NOTE
+## 备注
 - 本项目基于  [Yii 2 starter kit](https://github.com/trntv/yii2-starter-kit)进行了中文本地化改进，欢迎大家指正!
 
-##推荐使用
+## 推荐使用
 - 本人开发的字典工具[yii2-dic](https://github.com/ciniran/yii2-dic)，能极大地提高复杂项目的开发效率，欢迎大家使用！
